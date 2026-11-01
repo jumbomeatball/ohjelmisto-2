@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: "Nunito", Arial, sans-serif;
+  font-family: "Comic Neue", Arial, sans-serif;
   font-size: 18px;
   line-height: 1.5;
   color: #1c1c1c;
@@ -9,7 +9,7 @@ body {
 
 header {
   background-color: #b0c8ad;
-  color: white;
+  color: #1c1c1c;
   padding: 30px;
   text-align: center;
 }
@@ -22,7 +22,7 @@ nav {
 nav a {
   display: inline-block;
   padding: 15px 30px;
-  color: white;
+  color: #1c1c1c;
   text-decoration: none;
 }
 
@@ -40,7 +40,7 @@ section {
 }
 
 h2 {
-  color: #499798;
+  color: #2b6e6f;
 }
 
 img {
