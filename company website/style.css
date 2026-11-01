@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  font-family: "Nunito", Arial, sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #1c1c1c;
+  background-color: #f4f8f7;
+}
+
+header {
+  background-color: #b0c8ad;
+  color: white;
+  padding: 30px;
+  text-align: center;
+}
+
+nav {
+  background-color: #edaec8;
+  text-align: center;
+}
+
+nav a {
+  display: inline-block;
+  padding: 15px 30px;
+  color: white;
+  text-decoration: none;
+}
+
+nav a:hover {
+  background-color: #da83a3;
+  color: #1c1c1c;
+}
+
+section {
+  padding: 40px;
+}
+
+#products {
+  background-color: #e3efec;
+}
+
+h2 {
+  color: #499798;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.products {
+  display: flex;
+  gap: 25px;
+}
+
+article {
+  flex: 1;
+  background-color: white;
+  padding: 20px;
+}
