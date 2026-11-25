@@ -42,19 +42,16 @@ Tehtävä 5: 5p
 
 Tehdyt tehtävät:
 
-Tehtävä 1:
-Tehtävä 2: 
-Tehtävä 3: 
-Tehtävä 4: 
-Tehtävä 5: 
+Tehtävä 1: 2p
+Tehtävä 2: 3p
+Tehtävä 3: 7p
 
-> Pisteet yhteensä: 10p
+> Pisteet yhteensä: 12p
 
 # Python Flask -palvelin
 
 Tehdyt tehtävät:
 
-Tehtävä 1: 4p
-Tehtävä 3: 6p
+Tehtävä 2: 10p
 
 > Pisteet yhteensä: 10p
